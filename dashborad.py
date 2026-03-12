@@ -6,7 +6,7 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
-st.title("📊 דשבורד קטן")
+st.title("matanel dashboard")
 
 # Sidebar
 st.sidebar.header("אפשרויות")
