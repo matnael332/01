@@ -1,4 +1,4 @@
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt  # pyright: ignore[reportMissingImports]
 
 # יצירת נתוני דוגמה לגרף
 categories = ['קטגוריה א', 'קטגוריה ב', 'קטגוריה ג', 'קטגוריה ד']
